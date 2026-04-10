@@ -36,15 +36,7 @@ A sleek, responsive web application that converts URLs or text into high-quality
 ├── style.css    # Custom styling and animations
 └── script.js    # Logic for API fetching and UI toggling
 
-⚙️ How to Run
-- Clone the repository:
-git clone https://github.com/your-username/qr-code-generator.git
 
-- Navigate to the folder:
-cd qr-code-generator
-
-- Open the project:
-Simply open index.html in your favorite web browser
 
 📝 Usage Note
 The generator relies on an active internet connection to fetch the QR code image from the API.
